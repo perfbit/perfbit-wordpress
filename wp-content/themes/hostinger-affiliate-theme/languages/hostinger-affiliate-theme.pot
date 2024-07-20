@@ -1,0 +1,1654 @@
+# Copyright (C) 2024 Hostinger
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Hostinger Affiliate theme 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/hostinger-affiliate-theme\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-01-16T13:05:35+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.8.1\n"
+"X-Domain: hostinger-affiliate-theme\n"
+
+#. Theme Name of the theme
+#. Description of the theme
+msgid "Hostinger Affiliate theme"
+msgstr ""
+
+#. Theme URI of the theme
+msgid "https://hostinger.com"
+msgstr ""
+
+#. Author of the theme
+#: inc/gutenberg/gutenberg.php:57
+msgid "Hostinger"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://hostinger.com/"
+msgstr ""
+
+#: comments.php:19
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:32
+msgid "Comments (%1$s)"
+msgstr ""
+
+#: comments.php:45
+msgid "Comment navigation"
+msgstr ""
+
+#: functions.php:76
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:134
+msgid "Lasts Posts"
+msgstr ""
+
+#: functions.php:175
+msgid "Posts Sidebar"
+msgstr ""
+
+#: functions.php:177
+#: functions.php:186
+#: functions.php:196
+#: functions.php:206
+#: functions.php:215
+#: functions.php:224
+#: functions.php:233
+#: functions.php:242
+#: functions.php:251
+#: functions.php:260
+#: functions.php:270
+#: functions.php:280
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:184
+msgid "Pages Sidebar"
+msgstr ""
+
+#: functions.php:194
+msgid "Pilar Pages Sidebar"
+msgstr ""
+
+#: functions.php:204
+msgid "Page Home Sidebar"
+msgstr ""
+
+#: functions.php:213
+msgid "No advertisment Sidebar"
+msgstr ""
+
+#: functions.php:222
+msgid "Archives Sidebar"
+msgstr ""
+
+#: functions.php:231
+msgid "Footer Widget Area 1"
+msgstr ""
+
+#: functions.php:240
+msgid "Footer Widget Area 2"
+msgstr ""
+
+#: functions.php:249
+msgid "Footer Widget Area 3"
+msgstr ""
+
+#: functions.php:258
+msgid "Footer Widget Area 4"
+msgstr ""
+
+#: functions.php:268
+msgid "Content 404"
+msgstr ""
+
+#: functions.php:278
+msgid "Shop Sidebar"
+msgstr ""
+
+#: header.php:28
+msgid "Skip to content"
+msgstr ""
+
+#: inc/back-compat.php:25
+#: inc/back-compat.php:31
+#: inc/back-compat.php:39
+msgid "Hostinger affiliate theme requires at least WordPress version 4.7. You are running version %s. Please upgrade and try again."
+msgstr ""
+
+#: inc/custom-admin-notices.php:108
+msgid "Welcome to Hostinger Affiliate Theme"
+msgstr ""
+
+#: inc/custom-admin-notices.php:112
+msgid "Do you have any question?"
+msgstr ""
+
+#: inc/custom-admin-notices.php:113
+msgid "Don't hesitate to contact our support team."
+msgstr ""
+
+#: inc/custom-admin-notices.php:116
+msgid "<b>Note: Have you just updated?</b> Don't forget to clear the cache of both the server and the browser to view the changes correctly."
+msgstr ""
+
+#: inc/custom-admin-notices.php:122
+msgid "Click on the link below"
+msgstr ""
+
+#: inc/custom-admin-notices.php:126
+msgid "Go to Support"
+msgstr ""
+
+#: inc/customizer-parts/customizer-advertisment.php:15
+msgid "Adsense and Analytics"
+msgstr ""
+
+#: inc/customizer-parts/customizer-advertisment.php:16
+msgid "Remember the limitations and <a rel=\"nofollow\" target=\"_blank\" href=\"https://support.google.com/adsense/answer/48182\">Google Adsense policies</a>."
+msgstr ""
+
+#: inc/customizer-parts/customizer-advertisment.php:21
+msgid "Analytics and Adsense codes"
+msgstr ""
+
+#: inc/customizer-parts/customizer-advertisment.php:26
+msgid "Home Ads"
+msgstr ""
+
+#: inc/customizer-parts/customizer-advertisment.php:31
+msgid "Single Ads"
+msgstr ""
+
+#: inc/customizer-parts/customizer-advertisment.php:36
+msgid "Page Ads"
+msgstr ""
+
+#: inc/customizer-parts/customizer-advertisment.php:41
+msgid "Archive Ads"
+msgstr ""
+
+#: inc/customizer-parts/customizer-advertisment.php:46
+msgid "Home Mobile Ads"
+msgstr ""
+
+#: inc/customizer-parts/customizer-advertisment.php:51
+msgid "Single Mobile Ads"
+msgstr ""
+
+#: inc/customizer-parts/customizer-advertisment.php:56
+msgid "Page Mobile Ads"
+msgstr ""
+
+#: inc/customizer-parts/customizer-advertisment.php:61
+msgid "Archive Mobile Ads"
+msgstr ""
+
+#: inc/customizer-parts/customizer-advertisment.php:67
+msgid "Before Home"
+msgstr ""
+
+#: inc/customizer-parts/customizer-advertisment.php:68
+msgid "After Featured Home"
+msgstr ""
+
+#: inc/customizer-parts/customizer-advertisment.php:69
+msgid "After Home"
+msgstr ""
+
+#: inc/customizer-parts/customizer-advertisment.php:70
+msgid "Before Home Mobile"
+msgstr ""
+
+#: inc/customizer-parts/customizer-advertisment.php:71
+msgid "After Featured Home Mobile"
+msgstr ""
+
+#: inc/customizer-parts/customizer-advertisment.php:72
+msgid "After Home Mobile"
+msgstr ""
+
+#: inc/customizer-parts/customizer-advertisment.php:73
+msgid "Before Single Content"
+msgstr ""
+
+#: inc/customizer-parts/customizer-advertisment.php:74
+msgid "Middle Single Content"
+msgstr ""
+
+#: inc/customizer-parts/customizer-advertisment.php:75
+msgid "After Single Content"
+msgstr ""
+
+#: inc/customizer-parts/customizer-advertisment.php:76
+msgid "Before Single Content Mobile"
+msgstr ""
+
+#: inc/customizer-parts/customizer-advertisment.php:77
+msgid "Middle Single Content Mobile"
+msgstr ""
+
+#: inc/customizer-parts/customizer-advertisment.php:78
+msgid "After Single Content Mobile"
+msgstr ""
+
+#: inc/customizer-parts/customizer-advertisment.php:79
+msgid "Before Page Content"
+msgstr ""
+
+#: inc/customizer-parts/customizer-advertisment.php:80
+msgid "Middle Page Content"
+msgstr ""
+
+#: inc/customizer-parts/customizer-advertisment.php:81
+msgid "After Page Content"
+msgstr ""
+
+#: inc/customizer-parts/customizer-advertisment.php:82
+msgid "Before Page Content Mobile"
+msgstr ""
+
+#: inc/customizer-parts/customizer-advertisment.php:83
+msgid "Middle Page Content Mobile"
+msgstr ""
+
+#: inc/customizer-parts/customizer-advertisment.php:84
+msgid "After Page Content Mobile"
+msgstr ""
+
+#: inc/customizer-parts/customizer-advertisment.php:85
+msgid "Before Archive"
+msgstr ""
+
+#: inc/customizer-parts/customizer-advertisment.php:86
+msgid "After Featured Archive"
+msgstr ""
+
+#: inc/customizer-parts/customizer-advertisment.php:87
+msgid "After Archive"
+msgstr ""
+
+#: inc/customizer-parts/customizer-advertisment.php:88
+msgid "After Description Archive"
+msgstr ""
+
+#: inc/customizer-parts/customizer-advertisment.php:89
+msgid "Before Archive Mobile"
+msgstr ""
+
+#: inc/customizer-parts/customizer-advertisment.php:90
+msgid "After Featured Archive Mobile"
+msgstr ""
+
+#: inc/customizer-parts/customizer-advertisment.php:91
+msgid "After Archive Mobile"
+msgstr ""
+
+#: inc/customizer-parts/customizer-advertisment.php:92
+msgid "After Description Archive Mobile"
+msgstr ""
+
+#: inc/customizer-parts/customizer-control.php:22
+msgid "Read more"
+msgstr ""
+
+#: inc/customizer-parts/customizer-control.php:46
+msgid "Save settings"
+msgstr ""
+
+#: inc/customizer-parts/customizer-control.php:47
+msgid "Cookie settings"
+msgstr ""
+
+#: inc/customizer-parts/customizer-control.php:49
+msgid "Read Our Cookie Policy"
+msgstr ""
+
+#: inc/customizer-parts/customizer-control.php:50
+msgid "Settings"
+msgstr ""
+
+#: inc/customizer-parts/customizer-control.php:51
+msgid "Accept"
+msgstr ""
+
+#: inc/customizer-parts/customizer-control.php:52
+msgid "We use cookies and other tracking techniques to improve your browsing experience on our website, to show you customized content and appropriate advertisements, to analyze traffic on our website and to understand where our visitors are coming from."
+msgstr ""
+
+#: inc/customizer-parts/customizer-control.php:56
+msgid "These cookies are used to provide you with a more personalized experience and to remember your choices on our website, for example, we may use functionality cookies to remember your language preferences or your login details."
+msgstr ""
+
+#: inc/customizer-parts/customizer-control.php:57
+#: inc/customizer-parts/customizer-gdpr.php:176
+#: inc/meta-box.php:185
+msgid "Functionality Cookies"
+msgstr ""
+
+#: inc/customizer-parts/customizer-control.php:60
+msgid "These cookies are used to collect information to analyze traffic and how users use our website. For example, these cookies may collect data such as how long you have been browsing our website or which pages you visit, which helps us to understand how we can improve our website for you. The information collected with these tracking and performance cookies does not identify any individual visitor."
+msgstr ""
+
+#: inc/customizer-parts/customizer-control.php:61
+#: inc/customizer-parts/customizer-gdpr.php:181
+#: inc/meta-box.php:186
+msgid "Traceability and performance cookies"
+msgstr ""
+
+#: inc/customizer-parts/customizer-control.php:64
+msgid "These cookies are used to show you advertisements that may be of interest based on your browsing habits. These cookies, served by our content and/or advertising providers, may combine the information they collected from our website with other information collected by them in connection with your browser activities across their network of websites. If you choose to opt-out or disable tracking and advertising cookies, you will still see advertisements but these may not be of interest to you."
+msgstr ""
+
+#: inc/customizer-parts/customizer-control.php:65
+#: inc/customizer-parts/customizer-gdpr.php:186
+#: inc/meta-box.php:187
+msgid "Tracking and advertising cookies"
+msgstr ""
+
+#: inc/customizer-parts/customizer-control.php:68
+msgid "Other cookies not covered in the previous points."
+msgstr ""
+
+#: inc/customizer-parts/customizer-control.php:69
+#: inc/customizer-parts/customizer-gdpr.php:191
+#: inc/meta-box.php:188
+msgid "Other cookies"
+msgstr ""
+
+#: inc/customizer-parts/customizer-control.php:72
+msgid "These cookies are essential to provide you with the services available on our website and to enable you to use some features of our website. Without these cookies, we cannot provide some services on our website."
+msgstr ""
+
+#: inc/customizer-parts/customizer-control.php:73
+#: inc/customizer-parts/customizer-gdpr.php:171
+msgid "Strictly necessary cookies"
+msgstr ""
+
+#: inc/customizer-parts/customizer-control.php:87
+msgid "Layout Settings"
+msgstr ""
+
+#: inc/customizer-parts/customizer-control.php:93
+msgid "Posts Settings"
+msgstr ""
+
+#: inc/customizer-parts/customizer-control.php:99
+msgid "Typography Settings"
+msgstr ""
+
+#: inc/customizer-parts/customizer-control.php:105
+msgid "Loops Settings"
+msgstr ""
+
+#: inc/customizer-parts/customizer-control.php:111
+msgid "SEO Settings"
+msgstr ""
+
+#: inc/customizer-parts/customizer-control.php:117
+msgid "Accessibility Options"
+msgstr ""
+
+#: inc/customizer-parts/customizer-control.php:332
+msgid "Link Color"
+msgstr ""
+
+#: inc/customizer-parts/customizer-control.php:341
+msgid "Navbar Background Color"
+msgstr ""
+
+#: inc/customizer-parts/customizer-control.php:350
+msgid "Navbar Link Color"
+msgstr ""
+
+#: inc/customizer-parts/customizer-control.php:362
+msgid "Container Width"
+msgstr ""
+
+#: inc/customizer-parts/customizer-control.php:376
+msgid "Content-Sidebar Relation"
+msgstr ""
+
+#: inc/customizer-parts/customizer-control.php:392
+msgid "Sidebar Order"
+msgstr ""
+
+#: inc/customizer-parts/customizer-control.php:402
+msgid "Sticky Sidebar"
+msgstr ""
+
+#: inc/customizer-parts/customizer-control.php:411
+msgid "Navbar Search"
+msgstr ""
+
+#: inc/customizer-parts/customizer-control.php:420
+msgid "Orbital Menu"
+msgstr ""
+
+#: inc/customizer-parts/customizer-control.php:433
+#: inc/customizer-parts/customizer-control.php:491
+msgid "Show Thumbnails"
+msgstr ""
+
+#: inc/customizer-parts/customizer-control.php:442
+msgid "Show Related Posts"
+msgstr ""
+
+#: inc/customizer-parts/customizer-control.php:451
+msgid "Show Category Link"
+msgstr ""
+
+#: inc/customizer-parts/customizer-control.php:464
+msgid "Analytics Code"
+msgstr ""
+
+#: inc/customizer-parts/customizer-control.php:469
+msgid "Insert Analytics Code with script tag"
+msgstr ""
+
+#: inc/customizer-parts/customizer-control.php:476
+msgid "Adsense Code"
+msgstr ""
+
+#: inc/customizer-parts/customizer-control.php:481
+msgid "Insert the Adsense code with the script tag"
+msgstr ""
+
+#: inc/customizer-parts/customizer-control.php:500
+msgid "Show Excerpt"
+msgstr ""
+
+#: inc/customizer-parts/customizer-control.php:509
+msgid "Show Date"
+msgstr ""
+
+#: inc/customizer-parts/customizer-control.php:518
+msgid "Show Category"
+msgstr ""
+
+#: inc/customizer-parts/customizer-control.php:527
+msgid "Show Author"
+msgstr ""
+
+#: inc/customizer-parts/customizer-control.php:536
+msgid "Excerpt Length"
+msgstr ""
+
+#: inc/customizer-parts/customizer-control.php:550
+msgid "Number of columns"
+msgstr ""
+
+#: inc/customizer-parts/customizer-control.php:562
+msgid "Read More Text"
+msgstr ""
+
+#: inc/customizer-parts/customizer-control.php:571
+msgid "Cluster Image Width"
+msgstr ""
+
+#: inc/customizer-parts/customizer-control.php:572
+#: inc/customizer-parts/customizer-control.php:585
+#: inc/customizer-parts/customizer-performance.php:210
+msgid "It is necessary to regenerate all miniatures"
+msgstr ""
+
+#: inc/customizer-parts/customizer-control.php:584
+msgid "Cluster Image Height"
+msgstr ""
+
+#: inc/customizer-parts/customizer-control.php:599
+msgid "Typo Logo"
+msgstr ""
+
+#: inc/customizer-parts/customizer-control.php:600
+#: inc/customizer-parts/customizer-control.php:610
+#: inc/customizer-parts/customizer-control.php:620
+msgid "You can enter a URL. For example from Google Fonts."
+msgstr ""
+
+#: inc/customizer-parts/customizer-control.php:609
+msgid "Typo Headings"
+msgstr ""
+
+#: inc/customizer-parts/customizer-control.php:619
+msgid "Typo Body"
+msgstr ""
+
+#: inc/customizer-parts/customizer-control.php:630
+msgid "Disable underline on links"
+msgstr ""
+
+#: inc/customizer-parts/customizer-control.php:639
+msgid "Disable menu navigation by keyboard"
+msgstr ""
+
+#: inc/customizer-parts/customizer-export-import.php:35
+msgid "Please choose a file to import."
+msgstr ""
+
+#: inc/customizer-parts/customizer-export-import.php:54
+msgid "Export/Import"
+msgstr ""
+
+#: inc/customizer-parts/customizer-export-import.php:154
+msgid "Error importing settings! Please try again."
+msgstr ""
+
+#: inc/customizer-parts/customizer-export-import.php:166
+#: inc/customizer-parts/customizer-export-import.php:170
+msgid "Error importing settings! Please check that you uploaded a customizer export file."
+msgstr ""
+
+#: inc/customizer-parts/customizer-export-import.php:174
+msgid "Error importing settings! The settings you uploaded are not for the current theme."
+msgstr ""
+
+#: inc/customizer-parts/customizer-gdpr.php:91
+msgid "Activate"
+msgstr ""
+
+#: inc/customizer-parts/customizer-gdpr.php:106
+msgid "Section name"
+msgstr ""
+
+#: inc/customizer-parts/customizer-gdpr.php:120
+msgid "Section description"
+msgstr ""
+
+#: inc/customizer-parts/customizer-gdpr.php:135
+#: inc/customizer-parts/customizer-gdpr.php:374
+msgid "Javascript codes"
+msgstr ""
+
+#: inc/customizer-parts/customizer-gdpr.php:160
+msgid "Cookie Options (GDPR)"
+msgstr ""
+
+#: inc/customizer-parts/customizer-gdpr.php:166
+msgid "Appearance editor"
+msgstr ""
+
+#: inc/customizer-parts/customizer-gdpr.php:205
+msgid "Enable cookies "
+msgstr ""
+
+#: inc/customizer-parts/customizer-gdpr.php:218
+msgid "Block browsing"
+msgstr ""
+
+#: inc/customizer-parts/customizer-gdpr.php:234
+msgid "Widget position"
+msgstr ""
+
+#: inc/customizer-parts/customizer-gdpr.php:238
+msgid "Centered"
+msgstr ""
+
+#: inc/customizer-parts/customizer-gdpr.php:239
+#: inc/meta-box.php:79
+msgid "Footer"
+msgstr ""
+
+#: inc/customizer-parts/customizer-gdpr.php:252
+msgid "Tab position to change preferences"
+msgstr ""
+
+#: inc/customizer-parts/customizer-gdpr.php:256
+msgid "Left"
+msgstr ""
+
+#: inc/customizer-parts/customizer-gdpr.php:257
+msgid "Right"
+msgstr ""
+
+#: inc/customizer-parts/customizer-gdpr.php:270
+msgid "Cookie warning message"
+msgstr ""
+
+#: inc/customizer-parts/customizer-gdpr.php:284
+msgid "Text of the accept button"
+msgstr ""
+
+#: inc/customizer-parts/customizer-gdpr.php:297
+msgid "Text of the configuration button"
+msgstr ""
+
+#: inc/customizer-parts/customizer-gdpr.php:310
+msgid "Text of the link to the cookies policy"
+msgstr ""
+
+#: inc/customizer-parts/customizer-gdpr.php:323
+msgid "Cookie Policy URL"
+msgstr ""
+
+#: inc/customizer-parts/customizer-gdpr.php:337
+msgid "Title of the cookie settings popup"
+msgstr ""
+
+#: inc/customizer-parts/customizer-gdpr.php:350
+msgid "Save settings button"
+msgstr ""
+
+#: inc/customizer-parts/customizer-gdpr.php:377
+msgid "Tracking and advertising cookies are managed from the \"Advertising and Analytics\" menu."
+msgstr ""
+
+#: inc/customizer-parts/customizer-gdpr.php:379
+msgid "Change codes"
+msgstr ""
+
+#: inc/customizer-parts/customizer-performance.php:9
+msgid "Performance Settings"
+msgstr ""
+
+#: inc/customizer-parts/customizer-performance.php:10
+msgid "Remember to test each function separately and check the website for errors."
+msgstr ""
+
+#: inc/customizer-parts/customizer-performance.php:15
+msgid "Preload Fonts"
+msgstr ""
+
+#: inc/customizer-parts/customizer-performance.php:26
+#: inc/customizer-parts/customizer-performance.php:46
+#: inc/customizer-parts/customizer-performance.php:66
+#: inc/customizer-parts/customizer-performance.php:86
+#: inc/customizer-parts/customizer-performance.php:106
+msgid "“Preload” the location of your resources"
+msgstr ""
+
+#: inc/customizer-parts/customizer-performance.php:30
+msgid ""
+"One per line \n"
+"Ex. https://example.com/font.woff2"
+msgstr ""
+
+#: inc/customizer-parts/customizer-performance.php:35
+msgid "Preload Styles (CSS)"
+msgstr ""
+
+#: inc/customizer-parts/customizer-performance.php:50
+msgid ""
+"One per line \n"
+"Ex. https://example.com/style.css"
+msgstr ""
+
+#: inc/customizer-parts/customizer-performance.php:55
+msgid "Preload Scripts (JS)"
+msgstr ""
+
+#: inc/customizer-parts/customizer-performance.php:70
+msgid ""
+"One per line \n"
+"Ex. https://example.com/script.css"
+msgstr ""
+
+#: inc/customizer-parts/customizer-performance.php:75
+msgid "Preload Images"
+msgstr ""
+
+#: inc/customizer-parts/customizer-performance.php:90
+msgid ""
+"One per line \n"
+"Ex. https://example.com/image.jpg"
+msgstr ""
+
+#: inc/customizer-parts/customizer-performance.php:95
+msgid "Preload Embed (iframes)"
+msgstr ""
+
+#: inc/customizer-parts/customizer-performance.php:110
+msgid ""
+"One per line \n"
+"Ex. https://example.com/videoembed/"
+msgstr ""
+
+#: inc/customizer-parts/customizer-performance.php:116
+msgid "Preconnect (URL)"
+msgstr ""
+
+#: inc/customizer-parts/customizer-performance.php:127
+msgid "“Preconnect” the location of your resources"
+msgstr ""
+
+#: inc/customizer-parts/customizer-performance.php:131
+msgid ""
+"One url per line\n"
+"Ex. https://example.com/font.woff2"
+msgstr ""
+
+#: inc/customizer-parts/customizer-performance.php:137
+msgid "Prefetch (Domain)"
+msgstr ""
+
+#: inc/customizer-parts/customizer-performance.php:148
+msgid "“Prefetch” the location of your resources"
+msgstr ""
+
+#: inc/customizer-parts/customizer-performance.php:152
+msgid ""
+"One domain per line. Format //example.com \n"
+"Ex. //fonts.googleapis.com"
+msgstr ""
+
+#: inc/customizer-parts/customizer-performance.php:157
+msgid "Fix Render Blocking"
+msgstr ""
+
+#: inc/customizer-parts/customizer-performance.php:169
+msgid "Fix Render Blocking CSS"
+msgstr ""
+
+#: inc/customizer-parts/customizer-performance.php:182
+msgid "Fix Render Blocking JS"
+msgstr ""
+
+#: inc/customizer-parts/customizer-performance.php:195
+msgid "Exclude jQuery on Fix Render Blocking"
+msgstr ""
+
+#: inc/customizer-parts/customizer-performance.php:208
+msgid "Lazy Load (Experimental)"
+msgstr ""
+
+#: inc/customizer-parts/customizer-performance.php:215
+msgid "Quick Link"
+msgstr ""
+
+#: inc/customizer-parts/customizer-performance.php:227
+msgid "Enable Quicklink"
+msgstr ""
+
+#: inc/customizer-parts/customizer-performance.php:241
+msgid "Default Prefetch URLs"
+msgstr ""
+
+#: inc/customizer-parts/customizer-performance.php:245
+msgid "One per line"
+msgstr ""
+
+#: inc/customizer-parts/customizer-social.php:25
+msgid "Posts"
+msgstr ""
+
+#: inc/customizer-parts/customizer-social.php:26
+msgid "Page"
+msgstr ""
+
+#: inc/customizer-parts/customizer-social.php:27
+msgid "Archives"
+msgstr ""
+
+#: inc/customizer-parts/customizer-social.php:28
+msgid "Home"
+msgstr ""
+
+#: inc/customizer-parts/customizer-social.php:29
+msgid "WooCommerce"
+msgstr ""
+
+#: inc/customizer-parts/customizer-social.php:35
+msgid "Social Settings"
+msgstr ""
+
+#: inc/customizer-parts/customizer-social.php:36
+#: inc/customizer-parts/customizer-social.php:44
+#: inc/customizer-parts/customizer-social.php:50
+#: inc/customizer-parts/customizer-social.php:56
+msgid "Twitter counts need connect to <a target=\"_blank\" href=\"http://newsharecounts.com/\">http://newsharecounts.com/</a>"
+msgstr ""
+
+#: inc/customizer-parts/customizer-social.php:43
+msgid "Fixed Bottom"
+msgstr ""
+
+#: inc/customizer-parts/customizer-social.php:49
+msgid "Fixed Side"
+msgstr ""
+
+#: inc/customizer-parts/customizer-social.php:55
+#: inc/customizer-parts/customizer-toc.php:122
+msgid "Before Content"
+msgstr ""
+
+#: inc/customizer-parts/customizer-social.php:61
+#: inc/customizer-parts/customizer-toc.php:123
+msgid "After Content"
+msgstr ""
+
+#: inc/customizer-parts/customizer-social.php:200
+msgid "Enable Fixed Bottom Social"
+msgstr ""
+
+#: inc/customizer-parts/customizer-social.php:209
+#: inc/customizer-parts/customizer-social.php:253
+#: inc/customizer-parts/customizer-social.php:298
+#: inc/customizer-parts/customizer-social.php:343
+msgid "Select Social Networks"
+msgstr ""
+
+#: inc/customizer-parts/customizer-social.php:216
+#: inc/customizer-parts/customizer-social.php:260
+#: inc/customizer-parts/customizer-social.php:305
+#: inc/customizer-parts/customizer-social.php:350
+msgid "Post Types"
+msgstr ""
+
+#: inc/customizer-parts/customizer-social.php:222
+#: inc/customizer-parts/customizer-social.php:266
+#: inc/customizer-parts/customizer-social.php:311
+#: inc/customizer-parts/customizer-social.php:356
+msgid "Enable Count"
+msgstr ""
+
+#: inc/customizer-parts/customizer-social.php:229
+#: inc/customizer-parts/customizer-social.php:273
+#: inc/customizer-parts/customizer-social.php:318
+#: inc/customizer-parts/customizer-social.php:363
+msgid "Device Selector"
+msgstr ""
+
+#: inc/customizer-parts/customizer-social.php:230
+#: inc/customizer-parts/customizer-social.php:274
+#: inc/customizer-parts/customizer-social.php:319
+#: inc/customizer-parts/customizer-social.php:364
+msgid "If you have a cache plugin, maybe you should refresh cache."
+msgstr ""
+
+#: inc/customizer-parts/customizer-social.php:234
+#: inc/customizer-parts/customizer-social.php:278
+#: inc/customizer-parts/customizer-social.php:323
+#: inc/customizer-parts/customizer-social.php:368
+msgid "All devices"
+msgstr ""
+
+#: inc/customizer-parts/customizer-social.php:235
+#: inc/customizer-parts/customizer-social.php:279
+#: inc/customizer-parts/customizer-social.php:324
+#: inc/customizer-parts/customizer-social.php:369
+msgid "Only Mobile"
+msgstr ""
+
+#: inc/customizer-parts/customizer-social.php:236
+#: inc/customizer-parts/customizer-social.php:280
+#: inc/customizer-parts/customizer-social.php:325
+#: inc/customizer-parts/customizer-social.php:370
+msgid "Only Desktop"
+msgstr ""
+
+#: inc/customizer-parts/customizer-social.php:245
+msgid "Enable Fixed Side Social"
+msgstr ""
+
+#: inc/customizer-parts/customizer-social.php:289
+msgid "Enable Before Content Social"
+msgstr ""
+
+#: inc/customizer-parts/customizer-social.php:334
+msgid "Enable After Content Social"
+msgstr ""
+
+#: inc/customizer-parts/customizer-toc.php:31
+#: inc/meta-box.php:132
+msgid "Table of Content"
+msgstr ""
+
+#: inc/customizer-parts/customizer-toc.php:40
+msgid "TOC Shortcode <code>[orbital_toc]</code>"
+msgstr ""
+
+#: inc/customizer-parts/customizer-toc.php:41
+msgid "If you would like to fully customise the position of the table of contents, you can use the <code>[orbital_toc]</code> shortcode by placing it at the desired position of your post, page or custom post type. This method allows you to generate the table of contents overwriting the selected option in <code>Position</code>."
+msgstr ""
+
+#: inc/customizer-parts/customizer-toc.php:55
+msgid "Auto insert for the following content types"
+msgstr ""
+
+#: inc/customizer-parts/customizer-toc.php:69
+msgid "Activate on"
+msgstr ""
+
+#: inc/customizer-parts/customizer-toc.php:85
+msgid "Customize the Table of Content"
+msgstr ""
+
+#: inc/customizer-parts/customizer-toc.php:97
+msgid "Allow user to change visibility"
+msgstr ""
+
+#: inc/customizer-parts/customizer-toc.php:109
+msgid "Hide initially"
+msgstr ""
+
+#: inc/customizer-parts/customizer-toc.php:120
+msgid "Before First \"h2\""
+msgstr ""
+
+#: inc/customizer-parts/customizer-toc.php:121
+msgid "After First \"h2\""
+msgstr ""
+
+#: inc/customizer-parts/customizer-toc.php:129
+msgid "Position"
+msgstr ""
+
+#: inc/customizer-parts/customizer-toc.php:141
+msgid "Numbered list"
+msgstr ""
+
+#: inc/customizer-parts/customizer-toc.php:142
+msgid "Bulleted list"
+msgstr ""
+
+#: inc/customizer-parts/customizer-toc.php:143
+msgid "No numbers or bullet point"
+msgstr ""
+
+#: inc/customizer-parts/customizer-toc.php:149
+msgid "Format"
+msgstr ""
+
+#: inc/customizer-parts/customizer-toc.php:161
+msgid "Show only H2"
+msgstr ""
+
+#: inc/customizer-parts/customizer-toc.php:162
+msgid "Show H2 / H3"
+msgstr ""
+
+#: inc/customizer-parts/customizer-toc.php:163
+msgid "Show H2 / H3 / H4"
+msgstr ""
+
+#: inc/customizer-parts/customizer-toc.php:164
+msgid "Show H2 / H3 / H4 / H5"
+msgstr ""
+
+#: inc/customizer-parts/customizer-toc.php:165
+msgid "Show H2 / H3 / H4 / H5 / H6"
+msgstr ""
+
+#: inc/customizer-parts/customizer-toc.php:172
+msgid "Headers"
+msgstr ""
+
+#: inc/customizer-parts/customizer-toc.php:179
+#: inc/toc.php:169
+msgid "Index"
+msgstr ""
+
+#: inc/customizer-parts/customizer-toc.php:184
+#: inc/meta-box.php:96
+msgid "Title"
+msgstr ""
+
+#: inc/customizer-parts/customizer-woocommerce.php:10
+msgid "Woocommerce Home"
+msgstr ""
+
+#: inc/customizer-parts/customizer-woocommerce.php:11
+msgid "Shop configuration "
+msgstr ""
+
+#: inc/customizer-parts/customizer-woocommerce.php:16
+msgid "Woocommerce Breadcrumbs"
+msgstr ""
+
+#: inc/customizer-parts/customizer-woocommerce.php:37
+msgid "Woocommerce Breadcrumb Active"
+msgstr ""
+
+#: inc/customizer-parts/customizer-woocommerce.php:44
+msgid "Woocommerce Breadcrumb Align"
+msgstr ""
+
+#: inc/customizer-parts/customizer-woocommerce.php:64
+#: inc/gutenberg/assets/js/clusters-block.js:97
+msgid "Random"
+msgstr ""
+
+#: inc/customizer-parts/customizer-woocommerce.php:65
+msgid "What's new?"
+msgstr ""
+
+#: inc/customizer-parts/customizer-woocommerce.php:66
+msgid "Price"
+msgstr ""
+
+#: inc/customizer-parts/customizer-woocommerce.php:85
+msgid "Home Section"
+msgstr ""
+
+#: inc/customizer-parts/customizer-woocommerce.php:93
+msgid "Order by"
+msgstr ""
+
+#: inc/customizer-parts/customizer-woocommerce.php:98
+msgid "Sort by…"
+msgstr ""
+
+#: inc/customizer-parts/customizer-woocommerce.php:102
+msgid "Number of products"
+msgstr ""
+
+#: inc/customizer-parts/customizer-woocommerce.php:109
+msgid "Product Quantity"
+msgstr ""
+
+#: inc/customizer-parts/ei/control.php:10
+#: inc/customizer-parts/ei/control.php:15
+msgid "Export"
+msgstr ""
+
+#: inc/customizer-parts/ei/control.php:13
+msgid "Click the button below to export the customization settings for this theme."
+msgstr ""
+
+#: inc/customizer-parts/ei/control.php:20
+#: inc/customizer-parts/ei/control.php:33
+msgid "Import"
+msgstr ""
+
+#: inc/customizer-parts/ei/control.php:23
+msgid "Upload a file to import customization settings for this theme."
+msgstr ""
+
+#: inc/customizer-parts/ei/control.php:28
+msgid "Download and import image files?"
+msgstr ""
+
+#: inc/customizer-parts/ei/control.php:32
+msgid "Uploading..."
+msgstr ""
+
+#: inc/extras.php:259
+msgid "Top Description"
+msgstr ""
+
+#: inc/extras.php:273
+msgid "The description is not prominent by default; however, some themes may show it."
+msgstr ""
+
+#: inc/meta-box.php:51
+msgid "Modify appearance"
+msgstr ""
+
+#: inc/meta-box.php:56
+msgid "Subtitle"
+msgstr ""
+
+#: inc/meta-box.php:62
+msgid "Custom Sidebar"
+msgstr ""
+
+#: inc/meta-box.php:68
+msgid "Activate / Deactivate layout"
+msgstr ""
+
+#: inc/meta-box.php:73
+msgid "Header"
+msgstr ""
+
+#: inc/meta-box.php:85
+msgid "Sidebar"
+msgstr ""
+
+#: inc/meta-box.php:102
+msgid "Meta"
+msgstr ""
+
+#: inc/meta-box.php:108
+msgid "Category"
+msgstr ""
+
+#: inc/meta-box.php:114
+msgid "Advertisment"
+msgstr ""
+
+#: inc/meta-box.php:120
+#: inc/gutenberg/assets/js/clusters-block.js:97
+msgid "Thumbnail"
+msgstr ""
+
+#: inc/meta-box.php:126
+msgid "Social Shares"
+msgstr ""
+
+#: inc/meta-box.php:138
+#: template-parts/single/content-related.php:16
+msgid "Related Posts"
+msgstr ""
+
+#. Template Name of the theme
+#: inc/meta-box.php:149
+msgid "Pilar Page"
+msgstr ""
+
+#: inc/meta-box.php:154
+msgid "Add Custom Code"
+msgstr ""
+
+#: inc/meta-box.php:159
+msgid "Add Header Code"
+msgstr ""
+
+#: inc/meta-box.php:165
+msgid "Add Footer Code"
+msgstr ""
+
+#: inc/meta-box.php:176
+msgid "Force GDPR for code above"
+msgstr ""
+
+#: inc/meta-box.php:182
+msgid "GDPR type of code above"
+msgstr ""
+
+#: inc/meta-box.php:194
+msgid "File Optimization"
+msgstr ""
+
+#: inc/meta-box.php:269
+msgid "Option Page"
+msgstr ""
+
+#: inc/template-tags.php:156
+msgid "by %s"
+msgstr ""
+
+#: inc/widgets/class-wp-widget-recent-posts.php:20
+msgid "Your site&#8217;s most recent Posts."
+msgstr ""
+
+#: inc/widgets/class-wp-widget-recent-posts.php:23
+msgid "Orbital: Recent Posts"
+msgstr ""
+
+#: inc/widgets/class-wp-widget-recent-posts.php:34
+msgid "Recent Posts"
+msgstr ""
+
+#: inc/widgets/class-wp-widget-recent-posts.php:137
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets/class-wp-widget-recent-posts.php:142
+msgid "Number of posts to show:"
+msgstr ""
+
+#: inc/widgets/class-wp-widget-recent-posts.php:148
+msgid "Display post date?"
+msgstr ""
+
+#: inc/widgets/class-wp-widget-recent-posts.php:153
+msgid "Display thumbnail?"
+msgstr ""
+
+#: inc/woocommerce-filters.php:64
+#: inc/woocommerce-filters.php:80
+msgid "Details"
+msgstr ""
+
+#: inc/woocommerce-filters.php:66
+#: inc/woocommerce-filters.php:84
+msgid "Detailed category info to appear below the product list"
+msgstr ""
+
+#: inc/woocommerce-filters.php:220
+msgid "In Stock"
+msgstr ""
+
+#: inc/woocommerce-filters.php:232
+#: inc/woocommerce-filters.php:304
+msgid "View your shopping cart"
+msgstr ""
+
+#: inc/woocommerce-filters.php:307
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/wpgallery.php:234
+msgid "Masonry"
+msgstr ""
+
+#: inc/wpgallery.php:238
+msgid "Titles"
+msgstr ""
+
+#: inc/wpgallery.php:242
+msgid "Caption"
+msgstr ""
+
+#: inc/wpgallery.php:246
+msgid "Wrapper"
+msgstr ""
+
+#: searchform.php:14
+#: template-parts/search/content-search-navbar.php:36
+msgid "Search for:"
+msgstr ""
+
+#: template-parts/header/header-default.php:54
+#: template-parts/header/header-jumbotron.php:25
+msgid "Search results for %s"
+msgstr ""
+
+#: template-parts/header/header-default.php:57
+#: template-parts/header/header-jumbotron.php:28
+msgid "404: Page Not Found"
+msgstr ""
+
+#: template-parts/none/content-none.php:5
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/none/content-none.php:9
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/none/content-none.php:11
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: template-parts/none/content-none.php:15
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: inc/gutenberg/assets/js/clusters-block.js:97
+msgid "Pages"
+msgstr ""
+
+#: inc/gutenberg/assets/js/clusters-block.js:97
+msgid "Select one or more pages"
+msgstr ""
+
+#: inc/gutenberg/assets/js/clusters-block.js:97
+msgid "Post"
+msgstr ""
+
+#: inc/gutenberg/assets/js/clusters-block.js:97
+msgid "Select one or more post"
+msgstr ""
+
+#: inc/gutenberg/assets/js/clusters-block.js:97
+msgid "Categories"
+msgstr ""
+
+#: inc/gutenberg/assets/js/clusters-block.js:97
+msgid "Select one or more categories"
+msgstr ""
+
+#: inc/gutenberg/assets/js/clusters-block.js:97
+msgid "Tags"
+msgstr ""
+
+#: inc/gutenberg/assets/js/clusters-block.js:97
+msgid "Select one or more tags"
+msgstr ""
+
+#: inc/gutenberg/assets/js/clusters-block.js:97
+msgid "Pillar Pages"
+msgstr ""
+
+#: inc/gutenberg/assets/js/clusters-block.js:97
+msgid "Displays all pages that have the Pillar page option."
+msgstr ""
+
+#: inc/gutenberg/assets/js/clusters-block.js:97
+msgid "Customisable links"
+msgstr ""
+
+#: inc/gutenberg/assets/js/clusters-block.js:97
+msgid "Add various elements with fully customisable links, images and titles."
+msgstr ""
+
+#: inc/gutenberg/assets/js/clusters-block.js:97
+msgid "Choose which type of cluster you want to create"
+msgstr ""
+
+#: inc/gutenberg/assets/js/clusters-block.js:97
+msgid "Display different clusters"
+msgstr ""
+
+#: inc/gutenberg/assets/js/clusters-block.js:97
+msgid "Displaying "
+msgstr ""
+
+#: inc/gutenberg/assets/js/clusters-block.js:97
+msgid "Complete"
+msgstr ""
+
+#: inc/gutenberg/assets/js/clusters-block.js:97
+msgid "Please select which clusters you'd like to display"
+msgstr ""
+
+#: inc/gutenberg/assets/js/clusters-block.js:97
+msgid "Please select at least one page to display"
+msgstr ""
+
+#: inc/gutenberg/assets/js/clusters-block.js:97
+msgid "Please select at least one category to display"
+msgstr ""
+
+#: inc/gutenberg/assets/js/clusters-block.js:97
+msgid "Please select at least one tag to display"
+msgstr ""
+
+#: inc/gutenberg/assets/js/clusters-block.js:97
+msgid "Done"
+msgstr ""
+
+#: inc/gutenberg/assets/js/clusters-block.js:97
+msgid "Cluster"
+msgstr ""
+
+#: inc/gutenberg/assets/js/clusters-block.js:97
+msgid "Edit image"
+msgstr ""
+
+#: inc/gutenberg/assets/js/clusters-block.js:97
+msgid "No image"
+msgstr ""
+
+#: inc/gutenberg/assets/js/clusters-block.js:97
+msgid "Loading Clusters"
+msgstr ""
+
+#: inc/gutenberg/assets/js/clusters-block.js:97
+#: inc/gutenberg/assets/js/clusters-block.js:133
+msgid "No posts found"
+msgstr ""
+
+#: inc/gutenberg/assets/js/clusters-block.js:97
+msgid "Categories: "
+msgstr ""
+
+#: inc/gutenberg/assets/js/clusters-block.js:97
+msgid "Pages: "
+msgstr ""
+
+#: inc/gutenberg/assets/js/clusters-block.js:97
+msgid "Posts: "
+msgstr ""
+
+#: inc/gutenberg/assets/js/clusters-block.js:97
+msgid "Tags: "
+msgstr ""
+
+#: inc/gutenberg/assets/js/clusters-block.js:97
+msgid "Columns"
+msgstr ""
+
+#: inc/gutenberg/assets/js/clusters-block.js:97
+msgid "Order Clusters By"
+msgstr ""
+
+#: inc/gutenberg/assets/js/clusters-block.js:97
+msgid "New First"
+msgstr ""
+
+#: inc/gutenberg/assets/js/clusters-block.js:97
+msgid "Old First"
+msgstr ""
+
+#: inc/gutenberg/assets/js/clusters-block.js:97
+msgid "Modified Date Desc"
+msgstr ""
+
+#: inc/gutenberg/assets/js/clusters-block.js:97
+msgid "Modified Date Asc"
+msgstr ""
+
+#: inc/gutenberg/assets/js/clusters-block.js:97
+msgid "ID Desc"
+msgstr ""
+
+#: inc/gutenberg/assets/js/clusters-block.js:97
+msgid "ID Asc"
+msgstr ""
+
+#: inc/gutenberg/assets/js/clusters-block.js:97
+msgid "Title Desc"
+msgstr ""
+
+#: inc/gutenberg/assets/js/clusters-block.js:97
+msgid "Title Asc"
+msgstr ""
+
+#: inc/gutenberg/assets/js/clusters-block.js:97
+msgid "Slug Desc"
+msgstr ""
+
+#: inc/gutenberg/assets/js/clusters-block.js:97
+msgid "Slug Asc"
+msgstr ""
+
+#: inc/gutenberg/assets/js/clusters-block.js:97
+msgid "Parent Desc"
+msgstr ""
+
+#: inc/gutenberg/assets/js/clusters-block.js:97
+msgid "Parent Asc"
+msgstr ""
+
+#: inc/gutenberg/assets/js/clusters-block.js:97
+msgid "Menu Order Desc"
+msgstr ""
+
+#: inc/gutenberg/assets/js/clusters-block.js:97
+msgid "Menu Order Asc"
+msgstr ""
+
+#: inc/gutenberg/assets/js/clusters-block.js:97
+msgid "Comment Count Desc"
+msgstr ""
+
+#: inc/gutenberg/assets/js/clusters-block.js:97
+msgid "Comment Count Asc"
+msgstr ""
+
+#: inc/gutenberg/assets/js/clusters-block.js:97
+msgid "Decription"
+msgstr ""
+
+#: inc/gutenberg/assets/js/clusters-block.js:97
+msgid "Default"
+msgstr ""
+
+#: inc/gutenberg/assets/js/clusters-block.js:97
+msgid "Yoast SEO Meta Description"
+msgstr ""
+
+#: inc/gutenberg/assets/js/clusters-block.js:97
+msgid "None"
+msgstr ""
+
+#: inc/gutenberg/assets/js/clusters-block.js:97
+msgid "Links"
+msgstr ""
+
+#: inc/gutenberg/assets/js/clusters-block.js:97
+msgid "Follow"
+msgstr ""
+
+#: inc/gutenberg/assets/js/clusters-block.js:97
+msgid "No Follow"
+msgstr ""
+
+#: inc/gutenberg/assets/js/clusters-block.js:97
+msgid "Target"
+msgstr ""
+
+#: inc/gutenberg/assets/js/clusters-block.js:97
+msgid "Blank"
+msgstr ""
+
+#: inc/gutenberg/assets/js/clusters-block.js:97
+msgid "Thumbnail Size"
+msgstr ""
+
+#: inc/gutenberg/assets/js/clusters-block.js:97
+msgid "Thumbnail Center (default)"
+msgstr ""
+
+#: inc/gutenberg/assets/js/clusters-block.js:97
+msgid "Medium"
+msgstr ""
+
+#: inc/gutenberg/assets/js/clusters-block.js:97
+msgid "Medium Large"
+msgstr ""
+
+#: inc/gutenberg/assets/js/clusters-block.js:97
+msgid "Large"
+msgstr ""
+
+#: inc/gutenberg/assets/js/clusters-block.js:97
+msgid "Full"
+msgstr ""
+
+#: inc/gutenberg/assets/js/clusters-block.js:97
+msgid "Posts per page"
+msgstr ""
+
+#: inc/gutenberg/assets/js/clusters-block.js:97
+msgid "Featured"
+msgstr ""
+
+#: inc/gutenberg/assets/js/clusters-block.js:97
+msgid "Button"
+msgstr ""
+
+#: inc/gutenberg/assets/js/clusters-block.js:97
+msgid "Layout"
+msgstr ""
+
+#: inc/gutenberg/assets/js/clusters-block.js:97
+msgid "Edit"
+msgstr ""
+
+#: inc/gutenberg/assets/js/clusters-block.js:97
+msgid "Current Source"
+msgstr ""
+
+#: inc/gutenberg/assets/js/clusters-block.js:97
+msgid "Link Settings"
+msgstr ""
+
+#: inc/gutenberg/assets/js/clusters-block.js:97
+msgid "Open in new tab"
+msgstr ""
+
+#: inc/gutenberg/assets/js/clusters-block.js:97
+msgid "Enable Button"
+msgstr ""
+
+#: inc/gutenberg/assets/js/clusters-block.js:97
+msgid "Display a grid of clusters from a variety of sources."
+msgstr ""
+
+#: inc/gutenberg/assets/js/clusters-block.js:109
+msgid "Search for categories"
+msgstr ""
+
+#: inc/gutenberg/assets/js/clusters-block.js:109
+#: inc/gutenberg/assets/js/clusters-block.js:145
+msgid "Loading"
+msgstr ""
+
+#: inc/gutenberg/assets/js/clusters-block.js:109
+msgid "No categories found"
+msgstr ""
+
+#: inc/gutenberg/assets/js/clusters-block.js:121
+msgid "Search for pages to display"
+msgstr ""
+
+#: inc/gutenberg/assets/js/clusters-block.js:121
+msgid "No pages found"
+msgstr ""
+
+#: inc/gutenberg/assets/js/clusters-block.js:121
+msgid "Pages list"
+msgstr ""
+
+#: inc/gutenberg/assets/js/clusters-block.js:121
+msgid "Selected pages"
+msgstr ""
+
+#: inc/gutenberg/assets/js/clusters-block.js:133
+msgid "Search for posts to display"
+msgstr ""
+
+#: inc/gutenberg/assets/js/clusters-block.js:133
+msgid "Posts list"
+msgstr ""
+
+#: inc/gutenberg/assets/js/clusters-block.js:133
+msgid "Selected posts"
+msgstr ""
+
+#: inc/gutenberg/assets/js/clusters-block.js:145
+msgid "Search for tags"
+msgstr ""
+
+#: inc/gutenberg/assets/js/clusters-block.js:145
+msgid "No tags found"
+msgstr ""
+
+#: inc/gutenberg/assets/js/headings-block.js:141
+msgid "Heading Settings"
+msgstr ""
+
+#: inc/gutenberg/assets/js/headings-block.js:141
+msgid "Level"
+msgstr ""
+
+#: inc/gutenberg/assets/js/headings-block.js:141
+msgid "Text Alignment"
+msgstr ""
+
+#: inc/gutenberg/assets/js/headings-block.js:141
+msgid "Anchor Text"
+msgstr ""
+
+#: inc/gutenberg/assets/js/headings-block.js:141
+msgid "Color Settings"
+msgstr ""
+
+#: inc/gutenberg/assets/js/headings-block.js:141
+msgid "Background Color"
+msgstr ""
+
+#: inc/gutenberg/assets/js/headings-block.js:141
+msgid "Text Color"
+msgstr ""
+
+#: inc/gutenberg/assets/js/headings-block.js:141
+msgid "Write heading…"
+msgstr ""
+
+#. translators: %s: heading level e.g: "1", "2", "3"
+#: inc/gutenberg/assets/js/headings-block.js:153
+msgid "Heading %d"
+msgstr ""
+
+#: inc/gutenberg/assets/js/headings-block.js:213
+msgid "Orbital Headings"
+msgstr ""
+
+#: inc/gutenberg/assets/js/headings-block.js:213
+msgid "Introduce new sections and organize content to help visitors (and search engines) understand the structure of your content."
+msgstr ""
